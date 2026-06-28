@@ -17,4 +17,4 @@
 <img width="800" height="300" alt="1000027040" src="https://github.com/user-attachments/assets/5d19dd04-e9ab-4ef5-97a3-dd34a7d57f42" />
 
 
-<img width="2048" height="275" alt="1000026410" src="https://github.com/user-attachments/assets/23a64175-38c5-4afa-81f7-9f8d7984ca5f" />
+![1000027039](https://github.com/user-attachments/assets/b26b2cc8-19a1-49b8-bdcd-59be0e38082b)
